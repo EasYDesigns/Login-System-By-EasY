@@ -1,0 +1,132 @@
+* {
+	/* Standard font & font-weight */
+	font-family: 'Dosis', sans-serif;
+	font-weight: 300;
+	/* Standard font & font-weight end */
+}
+
+body {
+	/* background image for webpage */
+	background-image: url('http://cdn.wonderfulengineering.com/wp-content/uploads/2013/12/metal-wallpaper-1.jpg');
+	/* background image for webpage end */
+}
+
+.login .loginForm img {
+	width: 42px;
+	height: 42px;
+	position: relative;
+	top: 66px;
+	left: -355px;
+	border-radius: 0.5em;
+}
+
+.login .loginForm {
+	/* Positioning inputs ('login form') */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -2px;
+	/* Positioning inputs ('login form') end */
+	
+	/* Scaling inputs ('login form') */
+	width: 450px;
+	height: 375px;
+	/* Scaling inputs ('login form') end */
+	
+	/* Added border */
+	border: 3px solid white;
+	/* Added border end */
+	
+	/* Changing font color to grey */
+	color: black;
+	/* Changing font color to grey end */
+}
+
+.login .loginHeader {
+	/* Positioning text ('login header') */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	/* Positioning text ('login header') end */
+	
+	/* Scaling text ('login header') */
+	width: 450px;
+	height: 50px;
+	/* Scaling text ('login header') end */
+	
+	/* Added border */
+	border: 3px solid white;
+	/* Added border end */
+	
+	/* Positioning text in center */
+	text-align: center;
+	/* Positioning text in center end */
+	
+	/* Shaping coners with 2em in radius */
+	border-top-right-radius: 2em;
+	border-top-left-radius: 2em;
+	/* Shaping coners with 2em in radius end */
+	
+	/*Changing font color to white */
+	color: white;
+	/*Changing font color to white end */
+}
+
+.login .loginForm #loginUsername {
+	position: relative;
+	top: 55px;
+	left: 55px;
+	height: 30px;
+	width: 365px;
+	font-size: 25px;
+	border-top-right-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+	background-color: rgb(110, 110, 110);
+	color: white;
+	font-weight: 700;
+	border: none;
+}
+
+.login .loginForm #loginPassword {
+	position: relative;
+	top: 90px;
+	left: 55px;
+	height: 30px;
+	width: 365px;
+	font-size: 25px;
+	border-top-right-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+	background-color: rgb(110, 110, 110);
+	color: white;
+	font-weight: 700;
+	border: none;
+}
+
+.login .loginForm #loginSubmit {
+	position: relative;
+	top: 140px;
+	left: 259px;
+	height: 40px;
+	width: 165px;
+	font-size: 18px;
+	border-radius: 0.5em;
+	border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
